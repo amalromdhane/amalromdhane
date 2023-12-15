@@ -1,5 +1,5 @@
 
-<img  alt="coding" width="100%" height="200" src="[https://img-c.udemycdn.com/course/750x422/2020464_1dca.jpg](https://musabahmad43.files.wordpress.com/2018/05/videoblocks-programming-language-animated-word-cloud-text-design-animation_hheyf-67pl_thumbnail-full09.png?w=648)">
+<img  alt="coding" width="100%" height="200" src="https://musabahmad43.files.wordpress.com/2018/05/videoblocks-programming-language-animated-word-cloud-text-design-animation_hheyf-67pl_thumbnail-full09.png?w=648">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Amal+Romdhane!;" />
 </h1>
