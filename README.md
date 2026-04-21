@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalromdhane&label=Profile%20views&color=0e75b6&style=flat" alt="amalromdhane" /> </p>
 
-- 🌱 Currently learning and building skills in robotics, artificial intelligence, and emerging technologies.
+- 🌱 Currently learning and building skills in **robotics, artificial intelligence, and emerging technologies.**
 
 - 💬 Ask me about **NodeJs,VueJs,Php**
 
